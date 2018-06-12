@@ -16,7 +16,7 @@ My skill does not allow for alexa to repeat the recipe more than once so I would
 How do I get rid of an option I don't want?
 In order to get rid of an option you don't want you would have to alter my code and remove the option from the options array and remove the ingredients list and the recipe from both 2D arrays in the same position as the dessert you are removing in the options array.
 
-The recipes were taken off of the internet the links to the recipes are below
+The recipes used in my code were taken off of the internet and the links to the recipes are below:
 
 chocolate cake:https://howtocakeit.com/products/yos-ultimate-chocolate-cake
 
