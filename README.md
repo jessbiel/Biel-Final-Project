@@ -16,10 +16,17 @@ How do I get rid of an option I don't want?
 In order to get rid of an option you don't want you would have to alter my code and remove the option from the options array and remove the ingredients list and the recipe from both 2D arrays in the same position as the dessert you are removing in the options array.
 
 The recipes were taken off of the internet the links to the recipes are below
+
 chocolate cake:https://howtocakeit.com/products/yos-ultimate-chocolate-cake
+
 chocolate chip cookies:https://howtocakeit.com/products/yos-chocolate-chip-cookies
+
 brownies:https://www.allrecipes.com/recipe/9599/quick-and-easy-brownies/
+
 vanilla cake:https://howtocakeit.com/products/yos-ultimate-vanilla-cake
+
 apple pie:https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/
+
 cheesecake:https://www.kingarthurflour.com/recipes/easy-cheesecake-recipe
+
 peanut butter cookies:https://www.biggerbolderbaking.com/3-ingredient-peanut-butter-cookies/
